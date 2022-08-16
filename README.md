@@ -21,7 +21,7 @@ Tag Line : Babi Goreng Enak
 We can add this word into wordlist :
 
 - Babi/Rumah/Goreng/Enak
-- babi/bumah/goreng/enak
+- babi/rumah/goreng/enak
 
 
 ```
